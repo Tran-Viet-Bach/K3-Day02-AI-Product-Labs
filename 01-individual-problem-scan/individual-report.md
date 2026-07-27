@@ -92,7 +92,7 @@ Dùng form khảo sát giờ rảnh (Google Form/Poll) để thay hỏi tay từ
 AI thu thập giờ rảnh của 6 học viên + lịch cô giáo, tự động đề xuất khung giờ khớp nhất, giảm số vòng hỏi lại.
 
 **Quick gut:**
-[x] Workflow
+Workflow
 
 ### Draft current workflow
 
@@ -159,7 +159,7 @@ Từng trễ deadline ở kỳ trước, phải tốn thời gian liên hệ l�
 AI theo dõi dòng tiền vào/ra (nhập tay hoặc kết nối nguồn), tự phân loại khoản chi, và cảnh báo sớm nếu số dư dự kiến không đủ trước deadline học phí.
 
 **Quick gut:**
-[x] Workflow
+Workflow
 
 ### Draft current workflow
 
@@ -208,7 +208,7 @@ Bách (sinh viên học song song 2 trường).
 3. Lấy lịch tập thể thao cá nhân
 4. Tự đối chiếu thủ công (thường bằng mắt/note tay) để tìm khung giờ trống
 5. Phát hiện xung đột thì điều chỉnh lịch tập/lịch cá nhân
-6. Nếu 1 trong 2 trường đổi lịch → làm lại từ bước 1
+6. Nếu 1 trong 2 trường đổi lịch -> làm lại từ bước 1
 ```
 
 **Bottleneck:**
@@ -221,13 +221,13 @@ Mất 1 tiếng/lần đối chiếu, lặp lại nhiều lần trong kỳ mỗi
 Giảm thời gian đối chiếu từ 1 tiếng xuống dưới 10 phút; phát hiện xung đột ngay khi có thay đổi lịch thay vì phải tự rà lại toàn bộ.
 
 **Non-AI alternative:**
-Gộp thủ công cả 3 lịch vào 1 Google Calendar chung — giảm việc phải mở nhiều nguồn nhưng vẫn cần tự đối chiếu bằng mắt để tìm xung đột.
+Gộp thủ công cả 3 lịch vào 1 Google Calendar chung,  giảm việc phải mở nhiều nguồn nhưng vẫn cần tự đối chiếu bằng mắt để tìm xung đột.
 
 **AI hypothesis:**
 AI tự động đồng bộ 3 nguồn lịch, phát hiện và cảnh báo xung đột ngay khi có thay đổi, gợi ý khung giờ trống phù hợp.
 
 **Quick gut:**
-[x] Workflow
+Workflow
 
 ### Draft current workflow
 

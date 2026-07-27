@@ -1,0 +1,11 @@
+1. Vai trò đã tham gia trong buổi học
+Mình tự scan 3 bối cảnh thật (xếp lịch nhóm học nhảy, quản lý tài chính cá nhân, lịch học song song 2 trường), ra thành tổng cộng 10 problems trước khi hội tụ lại. Với mỗi case, mình đã bổ sung thêm các actor cụ thể và dấu hiệu thật thay vì để problem chung chung, sau đó vẽ current workflow và future workflow cho 3 Problem Card trong Top 3, và xác định rõ bottleneck và bước cần giữ con người kiểm soát. Từ đó chọn ra Top 3 dựa trên tiêu chí actor rõ, bottleneck cụ thể, impact đo được. Ngoài phần cá nhân, mình còn tham gia vai trò nhà đầu tư khi nghe các nhóm khác pitch đề tài dự án AI, dùng chính những tiêu chí trên để quyết định mức độ "đầu tư" cho từng nhóm.
+
+2. Dùng AI
+Mình dùng AI để review lại list problem ban đầu, và nó hữu ích ở chỗ chỉ ra ngay những ý còn chung chung, thiếu actor và dấu hiệu thật, chưa đo được. AI cũng gợi ý đào sâu thêm các problem con trong từng bối cảnh, giúp mình nhìn ra các lớp vấn đề ẩn bên trong 1 workflow quen thuộc mà ban đầu không nghĩ tới, ví dụ case học nhảy từ 1 ý ban đầu ra được 5 ý con. 
+
+3. Câu hỏi mở
+Học được gì? 
+- Ban đầu mình chỉ liệt kê 5 vấn đề khá rời rạc và chung chung (thiếu actor, thiếu số liệu). Qua quá trình đào sâu, mình nhận ra một problem chỉ thực sự thuyết phục khi có đủ 3 thứ: actor rõ, workflow có thể vẽ được, và dấu hiệu thật (số liệu/tần suất). Mình cũng học được cách phân biệt "vấn đề nghe hay" và "vấn đề đáng làm" khi đóng vai nhà đầu tư nghe nhóm khác pitch, nhiều ý tưởng nghe có vẻ hấp dẫn nhưng thiếu bottleneck cụ thể hoặc actor mơ hồ thì sẽ khó đánh giá impact thật.
+- Lúc nào nhóm mình đi theo hướng solution-first? Ở bước đầu, ý "làm quen AI từ nhiều nguồn khác nhau" có xu hướng solution-first, bắt đầu từ việc nghĩ đến công cụ AI trước, thay vì từ một pain point cụ thể có actor và bottleneck rõ ràng. Sau khi được chỉ ra, mình nhận thấy ý này khó viết thành problem thật vì thiếu workflow cụ thể, nên không đưa vào Top 3.
+- Nếu làm lại sẽ thay đổi gì? Mình sẽ điền đủ actor và dấu hiệu thật ngay từ đầu thay vì để trống rồi bổ sung sau, cũng như thử đào sâu thêm ở các bối cảnh có actor đa dạng hơn (ví dụ pain từ bạn cùng phòng, gia đình) thay vì chỉ xoay quanh bản thân.
